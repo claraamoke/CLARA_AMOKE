@@ -25,10 +25,8 @@ Data Cleaning • Exploratory Data Analysis • Legal Research • Compliance Do
 
 - [LinkedIn](https://www.linkedin.com/in/claraamoke) 
 - 📬 claraamoke64@gmail.com 
-- 📁 [View All My GitHub Projects](https://github.com/claramoke)
+- 📁 [View All My GitHub Projects]https://github.com/claraamoke/dashboard
 
----
 
 > “The power of data lies not just in numbers — but in how we apply it to real-world systems, from retail floors to courtrooms.” 
 > — Clara Amoke
-Sent from my iPhone
