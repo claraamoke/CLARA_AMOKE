@@ -2,6 +2,7 @@
  Hi, I'm Clara Amoke
 
 🎓 Lawyer | 📊 Data Analyst | 📌 Compliance enthusiast 
+
 I blend the precision of law with the power of data to drive smarter business decisions.
 
 ## 💼 Projects
